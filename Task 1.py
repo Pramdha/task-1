@@ -6,8 +6,6 @@ def Fibonacci(n):
 
 n = int(input("Enter the Value of n: "))
 
-# take input from the user
-
 print("Fibonacci series :")
 for i in range(n):
    print(Fibonacci(i),end=" ")
