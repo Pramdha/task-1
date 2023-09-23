@@ -8,4 +8,4 @@ n = int(input("Enter the Value of n: "))
 
 print("Fibonacci series :")
 for i in range(n):
-   print(Fibonacci(i),end=" ")
+   print(Fibonacci(i))
